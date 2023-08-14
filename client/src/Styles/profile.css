@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.profile_container {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: row;
+    height: 800px;
+    width: 90%;
+    margin: 20px 100px;
+    
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 5px;
+}
+
+.profile_card {
+    position: relative;
+    width: 70%;
+    height: 90%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .cover_card {
+    position: relative;
+    height: 200px;
+    background-color: lightgray;
+  }
+
+  .profile_details {
+    position: relative;
+    padding: 20px;
+  }
+  .img_cont {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: -120px;
+    left: 20%;
+    transform: translateX(-40%);
+    /* background-color: blueviolet; */
+  }
+  .profile_img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 2px solid white;
+    
+  }
+  .user_details_container {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    /* background-color: aqua; */
+  }
+  
+
+  .sub_user_details {
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 30px;
+    /* background-color: aqua; */
+  }
+
+ .pr_btn {
+    height: 40px;
+    width: 130px;
+    /* border: none; */
+    background: white;
+    color: #000;
+    font-size: 1rem;
+    border-radius: 6px;
+    /* margin-left: 10px; */
+    border: 3px solid #00000015;
+ } 
+ .pr_btn:hover{
+    background: gray;
+    color: #fff;
+ }
+ .chat-btn {
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: #fff;
+    font-size: medium;
+ }
+ 
+  .profile_user_name {
+    
+    font-family: 'Raleway';
+    margin-left: 10px;
+  }
+  
+  .profile_profession {
+  
+    font-family: 'Raleway';
+    color: gray;
+    margin-left: 10px;
+  }
+  .about_user h3 {
+    font-size: 1.5rem;
+    font-family: 'Merriweather';
+    font-weight: 300;
+  }
+
+  .edit_inputs{
+    height: 42px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-left: 5px;
+    padding-left: 10px;
+  }

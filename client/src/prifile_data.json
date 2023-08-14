@@ -1,0 +1,12 @@
+
+{
+    "profile" : [
+        {
+            "id":1,
+            "fullname": "Mohamed Ali Abdi",
+            "Profession": "Software Engineer",
+            "profile_img": "../public/mo_ali.jpeg"
+        }
+    ]
+}
+

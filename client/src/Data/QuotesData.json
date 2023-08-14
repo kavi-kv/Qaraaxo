@@ -1,0 +1,52 @@
+{
+    "quotes" : [
+        {
+            "id": 1,
+            "quote" : "“The only thing that feels better than winning is winning when nobody thought you could.",
+            "auther" : "Hank Aaron",
+            "user" : "Mohamed Ali"
+        },
+        {
+            "id": 2,
+            "quote" : "“If you want something you've never had, you must be willing to do something you've never done.”",
+            "auther" : "Unknown",
+            "user" : "Mohamed Ali"
+        },
+        {
+            "id": 3,
+            "quote" : "“Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.”",
+            "auther" : " Albert Einstein",
+            "user" : "Mohamed Ali"
+        },
+        {
+            "id": 4,
+            "quote" : "“A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.”",
+            "auther" : "George Bernhard Shaw"
+            ,"user" : "Mohamed Ali"
+        },
+        {
+            "id": 5,
+            "quote" : "“God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.”",
+            "auther" : "Reinhold Niebuhr",
+            "user" : "Mohamed Ali"
+        },
+        {
+            "id": 6,
+            "quote" : " “If you want happiness for an hour — take a nap. If you want happiness for a day — go fishing. If you want happiness for a year — inherit a fortune. If you want happiness for a life time — help someone else.”",
+            "auther" : "Chinese proverb"
+            ,"user" : "Mohamed Ali"
+        },
+        {
+            "id": 7,
+            "quote" : "“Most people do not listen with the intent to understand; they listen with the intent to reply.”",
+            "auther" : "Stephen Covey",
+            "user" : "Mohamed Ali"
+        },
+        {
+            "id": 8,
+            "quote" : "“Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.” ",
+            "auther" : "Sigmund Freud",
+            "user" : "Mohamed Ali"
+        }
+    ]
+}

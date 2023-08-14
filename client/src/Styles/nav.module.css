@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+
+.nav_header {
+    display: flex;
+    flex-direction: row;
+    height: 58px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.53);
+    -webkit-box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.53);
+    -moz-box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.53);
+    overflow: hidden;
+}
+.logo_header {
+    margin-left:10px;
+    font-family: 'Raleway', sans-serif;
+}
+.post_btn {
+    margin-right: 20px;
+    height: 90%;
+    width: 70px;
+    font-family: 'Merriweather',sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    border: none;
+    border-radius: 4px;
+    background: #0C134F;
+    color: #fff;
+}
+span {
+    color: #868484;
+}
+.btns_container {
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+    /* background-color: aqua; */
+  }
+  .profile_btn{
+    height: 100%;
+    width: 150px;
+    border: none;
+    border-radius: 100%;
+    background: black;
+    color: #fff;
+  }
+
+  .user_icon {
+    height: 80px;
+  }
